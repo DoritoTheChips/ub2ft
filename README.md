@@ -12,7 +12,7 @@ This program wasn't tested on any other [Beepbox](https://www.beepbox.co/) fork 
 - python
 
 # Usage
-[Youtube tutorial + showcase](https://youtu.be/RutCX44icm0)
+[Youtube tutorial + showcase](https://youtu.be/KXEvPfnszHM)
 1. Open your Ultrabox project
 2. Export your song to a `.json` format
 3. Open `ub2ft.py` and select the `.json` file you just exported
