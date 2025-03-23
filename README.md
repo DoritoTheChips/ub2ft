@@ -8,11 +8,14 @@ Reminder that this code is a sort of **PROOF OF CONCEPT** and was **NOT WRITTEN 
 
 This program wasn't tested on any other [Beepbox](https://www.beepbox.co/) fork other than [Ultrabox](https://ultraabox.github.io/).
 
+# Requirements
+- python
+
 # Usage
 [Youtube tutorial + showcase](https://youtu.be/RutCX44icm0)
 1. Open your Ultrabox project
 2. Export your song to a `.json` format
-3. Open ub2ft and select the `.json` file you just exported
+3. Open `ub2ft.py` and select the `.json` file you just exported
 4. Once the convertion is done, select an output path where the converted file will be saved
 5. Open Famitracker
 5. Go to `File > Import text...`
